@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 var lowerCase = "abcdefghijklmnopqrstuvwxyz".split("");
 
 var upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
@@ -6,6 +7,15 @@ var upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 var special = "*^&%#$@!()-_+=?/\[]{}<>".split("");
 
 var numbers = ['1', '2', '3', '4', '5', '6', '7', '8', '9'];
+=======
+let lowerCase = "abcdefghijklmnopqrstuvwxyz".split("");
+
+let upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+
+let special = "*^&%#$@!()-_+=?/\[]{}<>".split("");
+
+let numbers = ['1', '2', '3', '4', '5', '6', '7', '8', '9'];
+>>>>>>> 112ab7ec63f3e9b0cb39232509d7c4a64b9a870e
 
 
 //characters 
