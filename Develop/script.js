@@ -1,11 +1,11 @@
 
-let lowerCase = "abcdefghijklmnopqrstuvwxyz".split("");
+var lowerCase = "abcdefghijklmnopqrstuvwxyz".split("");
 
-let upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+var upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
-let special = "*^&%#$@!()-_+=?/\[]{}<>".split("");
+var special = "*^&%#$@!()-_+=?/\[]{}<>".split("");
 
-let numbers = ['1', '2', '3', '4', '5', '6', '7', '8', '9'];
+var numbers = ['1', '2', '3', '4', '5', '6', '7', '8', '9'];
 
 
 //characters 
